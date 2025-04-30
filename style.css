@@ -547,7 +547,7 @@ mark {
 
 /* <!--  startd Discord -->*/
 .s-discord {
-    background-image: url(/images/discord-back.gif);
+    background-image: url(./images/discord-back.gif);
     height: 450px;
     object-fit: cover;
     background-repeat: no-repeat;

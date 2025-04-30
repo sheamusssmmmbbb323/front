@@ -564,7 +564,7 @@ header .navbar .right-bar ul li a:not(.GITHUB):hover::after {
     padding-bottom: 20px;
 }
 
-/* حالة النشاط */
+
 .faq-item.active {
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
 }
@@ -639,7 +639,6 @@ header .navbar .right-bar ul li a:not(.GITHUB):hover::after {
     color: #333;
 }
 
-/* تأثيرات الحركة */
 @keyframes slideDown {
     from {
         opacity: 0;
@@ -661,7 +660,7 @@ header .navbar .right-bar ul li a:not(.GITHUB):hover::after {
 
 /* <!--  startd Discord -->*/
 .s-discord {
-    background-image: url(../images/discord-back.gif);
+    background-image: url(./images/discord-back.gif);
     min-height: 450px;
     object-fit: cover;
     background-repeat: no-repeat;

@@ -660,7 +660,7 @@ header .navbar .right-bar ul li a:not(.GITHUB):hover::after {
 
 /* <!--  startd Discord -->*/
 .s-discord {
-    background-image: url(/images/discord-back.gif);
+    background-image: url(./images/discord-back.gif);
     min-height: 450px;
     object-fit: cover;
     background-repeat: no-repeat;
